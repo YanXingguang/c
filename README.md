@@ -14,3 +14,5 @@ springboot + vue + element-ui plus
 ![输入图片说明](%E5%9B%BE%E7%89%871.png)
 
 
+最大并发支持100
+
