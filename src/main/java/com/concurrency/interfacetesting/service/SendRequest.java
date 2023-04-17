@@ -1,8 +1,8 @@
-package com.thread.demo.service;
+package com.concurrency.interfacetesting.service;
 
-import com.thread.demo.entity.RequestData;
-import com.thread.demo.entity.ThreadResultEntity;
-import com.thread.demo.util.RestUtils;
+import com.concurrency.interfacetesting.entity.RequestData;
+import com.concurrency.interfacetesting.entity.ThreadResultEntity;
+import com.concurrency.interfacetesting.util.RestUtils;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.scheduling.annotation.AsyncResult;
 import org.springframework.stereotype.Component;

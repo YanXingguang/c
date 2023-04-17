@@ -1,7 +1,7 @@
-package com.thread.demo.util;
+package com.concurrency.interfacetesting.util;
 
 import com.alibaba.fastjson.JSONObject;
-import com.thread.demo.entity.RequestData;
+import com.concurrency.interfacetesting.entity.RequestData;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;

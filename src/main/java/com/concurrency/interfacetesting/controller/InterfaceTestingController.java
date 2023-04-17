@@ -1,9 +1,9 @@
-package com.thread.demo.controller;
+package com.concurrency.interfacetesting.controller;
 
-import com.thread.demo.entity.RequestData;
-import com.thread.demo.entity.ResultData;
-import com.thread.demo.entity.ThreadResultEntity;
-import com.thread.demo.service.SendRequest;
+import com.concurrency.interfacetesting.entity.ResultData;
+import com.concurrency.interfacetesting.entity.RequestData;
+import com.concurrency.interfacetesting.entity.ThreadResultEntity;
+import com.concurrency.interfacetesting.service.SendRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.thread.demo.util;
+package com.concurrency.interfacetesting.util;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

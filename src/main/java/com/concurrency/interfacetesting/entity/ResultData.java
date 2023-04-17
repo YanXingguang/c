@@ -1,4 +1,4 @@
-package com.thread.demo.entity;
+package com.concurrency.interfacetesting.entity;
 
 import lombok.Data;
 
